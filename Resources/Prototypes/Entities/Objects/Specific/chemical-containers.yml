@@ -443,3 +443,226 @@
           reagents:
             - ReagentId: WeldingFuel
               Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Omnizine)
+  id: JugOmnizine
+  components:
+    - type: Label
+      currentLabel: reagent-name-omnizine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Omnizine
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Bicaridine)
+  id: JugBicaridine
+  components:
+    - type: Label
+      currentLabel: reagent-name-bicaridine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Bicaridine
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Dermaline)
+  id: JugDermaline
+  components:
+    - type: Label
+      currentLabel: reagent-name-dermaline
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Dermaline
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Dylovene)
+  id: JugDylovene
+  components:
+    - type: Label
+      currentLabel: reagent-name-dylovene
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Dylovene
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Dexalin+)
+  id: JugDexalin+
+  components:
+    - type: Label
+      currentLabel: dexalin+
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: DexalinPlus
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Arithrazine)
+  id: JugArithrazine
+  components:
+    - type: Label
+      currentLabel: reagent-name-arithrazine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Arithrazine
+              Quantity: 200
+- type: entity
+  parent: Jug
+  name: jug (Epinephrine)
+  id: JugEpinephrine
+  components:
+    - type: Label
+      currentLabel: reagent-name-epinephrine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Epinephrine
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Inoprovaline)
+  id: JugInoprovaline
+  components:
+    - type: Label
+      currentLabel: reagent-name-inoprovaline
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Inoprovaline
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Tricordrazine)
+  id: JugTricordrazine
+  components:
+    - type: Label
+      currentLabel: reagent-name-tricordrazine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Tricordrazine
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Saline)
+  id: JugSaline
+  components:
+    - type: Label
+      currentLabel: reagent-name-saline
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Saline
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Cryoxadone)
+  id: JugCryoxadone
+  components:
+    - type: Label
+      currentLabel: reagent-name-cryoxadone
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Cryoxadone
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Aloxadone)
+  id: JugAloxadone
+  components:
+    - type: Label
+      currentLabel: reagent-name-aloxadone
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Aloxadone
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Doxarubixadone)
+  id: JugDoxarubixadone
+  components:
+    - type: Label
+      currentLabel: reagent-name-doxarubixadone
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Doxarubixadone
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Leporazine)
+  id: JugLeporazine
+  components:
+    - type: Label
+      currentLabel: reagent-name-leporazine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Leporazine
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Ephedrine)
+  id: JugEphedrine
+  components:
+    - type: Label
+      currentLabel: reagent-name-ephedrine
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Ephedrine
+              Quantity: 200
+
+- type: entity
+  parent: Jug
+  name: jug (Ambuzol)
+  id: JugAmbuzol
+  components:
+    - type: Label
+      currentLabel: reagent-name-ambuzol
+    - type: SolutionContainerManager
+      solutions:
+        beaker:
+          reagents:
+            - ReagentId: Ambuzol
+              Quantity: 200
