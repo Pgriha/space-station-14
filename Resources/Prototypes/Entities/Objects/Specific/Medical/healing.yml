@@ -969,3 +969,29 @@
         reagents:
         - ReagentId: Stimulants
           Quantity: 15
+
+- type: entity
+  name: ambuzol plus syringe
+  parent: PrefilledSyringe
+  id: SyringeAmbuzolPlus
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        injector:
+          maxVol: 15
+          reagents:
+            - ReagentId: AmbuzolPlus
+              Quantity: 15
+
+- type: entity
+  name: dexalin plus syringe
+  parent: PrefilledSyringe
+  id: SyringeDexalinPlus
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        injector:
+          maxVol: 15
+          reagents:
+            - ReagentId: DexalinPlus
+              Quantity: 15
