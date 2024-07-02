@@ -502,8 +502,8 @@
 
 - type: entity
   parent: Jug
-  name: jug (Dexalin+)
-  id: JugDexalin+
+  name: jug (Dexalin plus)
+  id: JugDexalinPlus
   components:
     - type: Label
       currentLabel: dexalin+

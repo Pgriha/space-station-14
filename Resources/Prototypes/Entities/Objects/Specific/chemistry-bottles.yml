@@ -319,3 +319,107 @@
           reagents:
             - ReagentId: Toxin
               Quantity: 30
+
+- type: entity
+  id: AmbuzolChemistryBottle
+  name: ambuzol bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: Ambuzol
+              Quantity: 30
+
+- type: entity
+  id: AmbuzolPlusChemistryBottle
+  name: ambuzol plus bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: AmbuzolPlus
+              Quantity: 30
+
+- type: entity
+  id: BicaridineChemistryBottle
+  name: bicaridine bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: Bicaridine
+              Quantity: 30
+
+- type: entity
+  id: DermalineChemistryBottle
+  name: dermaline bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: Dermaline
+              Quantity: 30
+
+- type: entity
+  id: DyloveneChemistryBottle
+  name: dylovene bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: Dylovene
+              Quantity: 30
+
+- type: entity
+  id: DexalinPlusChemistryBottle
+  name: dexalin plus bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: DexalinPlus
+              Quantity: 30
+
+- type: entity
+  id: ArithrazineChemistryBottle
+  name: arithrazine bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: Arithrazine
+              Quantity: 30
+
+- type: entity
+  id: TricordrazinePlusChemistryBottle
+  name: tricordrazine bottle
+  parent: BaseChemistryBottleFilled
+  components:
+    - type: SolutionContainerManager
+      solutions:
+        drink:
+          maxVol: 30
+          reagents:
+            - ReagentId: Tricordrazine
+              Quantity: 30
