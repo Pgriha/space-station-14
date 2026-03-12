@@ -54,6 +54,8 @@
       Female: Scurret
       Unsexed: Scurret
     wilhelmProbability: 0.01 # the scug, it screams like a man
+  - type: BodyEmotes
+    soundsId: ScurretBodyEmotes
   - type: Speech
     speechVerb: Wawa
     speechSounds: Wawa
@@ -142,8 +144,6 @@
   - type: Edible # Why? I'm not sure but I also am afraid of the answer.
   - type: Hunger
     baseDecayRate: 0.05 # They get a lil' hungy
-  - type: BodyEmotes # Grants them clapping and so on.
-    soundsId: Scurret
   - type: Deathgasp
     prototype: ScurretDeathgasp # You monster
   - type: Tag

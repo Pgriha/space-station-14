@@ -163,9 +163,9 @@
   - type: MothAccent
   - type: Vocal
     sounds:
-      Male: UnisexMoth
-      Female: UnisexMoth
-      Unsexed: UnisexMoth
+      Male: MaleMoth
+      Female: FemaleMoth
+      Unsexed: MaleMoth
   - type: BodyEmotes
     soundsId: MothBodyEmotes
   - type: MovementSpeedModifier

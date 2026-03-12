@@ -154,9 +154,9 @@
     allowedEmotes: ['Chirp']
   - type: Vocal
     sounds:
-      Male: UnisexDiona
-      Female: UnisexDiona
-      Unsexed: UnisexDiona
+      Male: MaleDiona
+      Female: FemaleDiona
+      Unsexed: MaleDiona
   - type: TypingIndicator
     proto: diona
   - type: BodyEmotes
