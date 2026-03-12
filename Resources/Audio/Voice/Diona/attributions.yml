@@ -27,3 +27,13 @@
   license: "CC0-1.0"
   copyright: "Made by shatterstars on freesound.org. Modified by Minemoder5000 on github by cropping, converting to mono, and re-encoding to Ogg Vorbis"
   source: "https://freesound.org/people/shatterstars/sounds/651319/"
+
+- files: ["diona_cough.ogg", "diona_gasp.ogg"]
+  license: "CC-BY-4.0"
+  copyright: "Made by InspectorJ and nicoproson on freesound.org. Modified by QWERTY."
+  source: "https://freesound.org/people/InspectorJ/sounds/352201/"
+
+- files: ["diona_deathgasp.ogg"]
+  license: "CC0-1.0"
+  copyright: "Made by Nox_Sound on freesound.org."
+  source: "https://freesound.org/people/Nox_Sound/sounds/558380/"

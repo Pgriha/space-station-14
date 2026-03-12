@@ -141,6 +141,8 @@
       path: /Audio/Voice/Vox/vox_sneeze.ogg
     Cough:
       path: /Audio/Voice/Vox/vox_cough.ogg
+    Yawn:
+      path: /Audio/Voice/Vox/vox_yawn.ogg
     Sigh:
       path: /Audio/Voice/Vox/vox_sigh.ogg
     Click:
@@ -173,14 +175,16 @@
       collection: DionaLaugh
     Sneeze:
       path: /Audio/Voice/Diona/diona_sneeze.ogg
+    Cough:
+      path: /Audio/Voice/Diona/diona_cough.ogg
     Chirp:
       path: /Audio/Animals/nymph_chirp.ogg
-    Honk: # Added, cause no parent general female/male sounds prototype for male/femaly diona's
+    Honk: # Added, cause no parent general female/male sounds prototype for male/female diona's
       collection: BikeHorn
     Gasp:
-      collection: MaleGasp
+      path: /Audio/Voice/Diona/diona_gasp.ogg
     DefaultDeathgasp:
-      collection: DeathGasp
+      path: /Audio/Voice/Diona/diona_deathgasp.ogg
 
 - type: emoteSounds
   parent: [UnisexSounds, UnisexDiona] # No male sounds, cause this is trees
@@ -203,6 +207,12 @@
       path: /Audio/Voice/Arachnid/arachnid_chitter.ogg
     Click:
       path: /Audio/Voice/Arachnid/arachnid_click.ogg
+    Cough:
+      path: /Audio/Voice/Arachnid/arachnid_cough.ogg
+    Gasp:
+      path: /Audio/Voice/Arachnid/arachnid_gasp.ogg
+    DefaultDeathgasp:
+      path: /Audio/Voice/Arachnid/arachnid_deathgasp.ogg
 
 - type: emoteSounds
   parent: [UnisexSounds, UnisexArachnid, MaleSounds]
