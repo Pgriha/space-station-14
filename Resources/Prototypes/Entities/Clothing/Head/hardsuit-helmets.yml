@@ -973,7 +973,7 @@
   - type: Clothing
     sprite: Clothing/Head/Hardsuits/clown.rsi
     equipSound: /Audio/Mecha/mechmove03.ogg
-    unequipSound: /Audio/Effects/Emotes/parp1.ogg
+    unequipSound: /Audio/Effects/Emotes/parp.ogg
 
 #Mime Hardsuit
 - type: entity

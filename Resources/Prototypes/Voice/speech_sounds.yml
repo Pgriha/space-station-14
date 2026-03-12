@@ -73,7 +73,7 @@
 - type: speechSounds
   id: Xenoborg
   saySound:
-    path: /Audio/Voice/Xenoborg/xenoborg_talk.ogg
+    path: /Audio/Voice/Xenoborg/xenoborg.ogg
   askSound:
     path: /Audio/Voice/Xenoborg/xenoborg_ask.ogg
   exclaimSound:

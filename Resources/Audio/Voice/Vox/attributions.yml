@@ -1,4 +1,4 @@
-- files: ["shriek1.ogg"]
+- files: ["vox_scream.ogg"]
   license: "CC-BY-SA-3.0"
   copyright: "Taken from https://github.com/ParadiseSS13/Paradise/blob/master/sound/voice/shriek1.ogg"
   source: "https://github.com/ParadiseSS13/Paradise/commit/43e60ab01eda88fe30eb93612614bde836e55fe4"
@@ -37,3 +37,10 @@
   license: "CC-BY-SA-3.0"
   copyright: "Mix of vox_laugh.ogg and vox_cough.ogg, edited by ScarKy0."
   source: "https://github.com/space-wizards/space-station-14/pull/42929"
+
+- files:
+  - vox_deathgasp.ogg
+  - vox_gasp.ogg
+  license: "CC-BY-SA-3.0"
+  copyright: "Made by TrixxedHeart, modified from shriek1.ogg"
+  source: "https://github.com/space-wizards/space-station-14/pull/39914"

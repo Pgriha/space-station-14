@@ -145,10 +145,10 @@
     - /Audio/Ambience/ambimaint4.ogg
     - /Audio/Ambience/ambimaint5.ogg
     - /Audio/Ambience/ambitech2.ogg
-    - /Audio/Voice/Misc/lowHiss1.ogg
-    - /Audio/Voice/Misc/lowHiss2.ogg
-    - /Audio/Voice/Misc/lowHiss3.ogg
-    - /Audio/Voice/Misc/lowHiss4.ogg
+    - /Audio/Voice/Misc/hiss_low_1.ogg
+    - /Audio/Voice/Misc/hiss_low_2.ogg
+    - /Audio/Voice/Misc/hiss_low_3.ogg
+    - /Audio/Voice/Misc/hiss_low_4.ogg
     - /Audio/Ambience/maintambience.ogg
 
 - type: soundCollection

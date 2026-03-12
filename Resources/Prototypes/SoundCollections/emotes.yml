@@ -1,13 +1,13 @@
 - type: soundCollection
   id: MaleLaugh
   files:
-    - /Audio/Voice/Human/manlaugh1.ogg
-    - /Audio/Voice/Human/manlaugh2.ogg
+    - /Audio/Voice/Human/male_laugh_1.ogg
+    - /Audio/Voice/Human/male_laugh_2.ogg
 
 - type: soundCollection
   id: FemaleLaugh
   files:
-    - /Audio/Voice/Human/womanlaugh.ogg
+    - /Audio/Voice/Human/female_laugh.ogg
 
 - type: soundCollection
   id: MaleCough
@@ -21,64 +21,43 @@
     - /Audio/Voice/Human/female_cough_1.ogg
     - /Audio/Voice/Human/female_cough_2.ogg
 
-
 - type: soundCollection
   id: Claps
   files:
-    - /Audio/Effects/Emotes/clap1.ogg
-    - /Audio/Effects/Emotes/clap2.ogg
-    - /Audio/Effects/Emotes/clap3.ogg
-    - /Audio/Effects/Emotes/clap4.ogg
-
-- type: soundCollection
-  id: ClapSingle
-  files:
-  - /Audio/Effects/Emotes/clap-single.ogg
+    - /Audio/Effects/Emotes/clap_1.ogg
+    - /Audio/Effects/Emotes/clap_2.ogg
+    - /Audio/Effects/Emotes/clap_3.ogg
+    - /Audio/Effects/Emotes/clap_4.ogg
 
 - type: soundCollection
   id: Snaps
   files:
-    - /Audio/Effects/Emotes/snap1.ogg
-    - /Audio/Effects/Emotes/snap2.ogg
-    - /Audio/Effects/Emotes/snap3.ogg
+    - /Audio/Effects/Emotes/snap_1.ogg
+    - /Audio/Effects/Emotes/snap_2.ogg
+    - /Audio/Effects/Emotes/snap_3.ogg
 
 - type: soundCollection
   id: DionaLaugh
   files:
-    - /Audio/Voice/Diona/diona_rustle1.ogg
-    - /Audio/Voice/Diona/diona_rustle2.ogg
-    - /Audio/Voice/Diona/diona_rustle3.ogg
-
-- type: soundCollection
-  id: MaleSigh
-  files:
-    - /Audio/Voice/Human/male_sigh.ogg
-
-- type: soundCollection
-  id: FemaleSigh
-  files:
-    - /Audio/Voice/Human/female_sigh.ogg
-
-- type: soundCollection
-  id: Salutes
-  files:
-    - /Audio/Effects/Emotes/salute.ogg
+    - /Audio/Voice/Diona/diona_rustle_1.ogg
+    - /Audio/Voice/Diona/diona_rustle_2.ogg
+    - /Audio/Voice/Diona/diona_rustle_3.ogg
 
 - type: soundCollection
   id: MaleCry
   files:
-    - /Audio/Voice/Human/cry_male_1.ogg
-    - /Audio/Voice/Human/cry_male_2.ogg
-    - /Audio/Voice/Human/cry_male_3.ogg
-    - /Audio/Voice/Human/cry_male_4.ogg
+    - /Audio/Voice/Human/male_cry_1.ogg
+    - /Audio/Voice/Human/male_cry_2.ogg
+    - /Audio/Voice/Human/male_cry_3.ogg
+    - /Audio/Voice/Human/male_cry_4.ogg
 
 - type: soundCollection
   id: FemaleCry
   files:
-    - /Audio/Voice/Human/cry_female_1.ogg
-    - /Audio/Voice/Human/cry_female_2.ogg
-    - /Audio/Voice/Human/cry_female_3.ogg
-    - /Audio/Voice/Human/cry_female_4.ogg
+    - /Audio/Voice/Human/female_cry_1.ogg
+    - /Audio/Voice/Human/female_cry_2.ogg
+    - /Audio/Voice/Human/female_cry_3.ogg
+    - /Audio/Voice/Human/female_cry_4.ogg
 
 - type: soundCollection
   id: Whistles
@@ -89,26 +68,6 @@
     - /Audio/Voice/Human/whistle_4.ogg
 
 - type: soundCollection
-  id: Squishes
-  files:
-    - /Audio/Voice/Slime/slime_squish.ogg
-
-- type: soundCollection
-  id: Weh
-  files:
-  - /Audio/Items/Toys/weh.ogg
-
-- type: soundCollection
-  id: Hew
-  files:
-  - /Audio/Items/Toys/hew.ogg
-
-- type: soundCollection
-  id: XenoborgScream
-  files:
-  - /Audio/Voice/Xenoborg/xenoborg_scream.ogg
-
-- type: soundCollection
   id: XenoborgLaugh
   files:
   - /Audio/Voice/Xenoborg/xenoborg_laugh_1.ogg
@@ -117,31 +76,25 @@
   - /Audio/Voice/Xenoborg/xenoborg_laugh_4.ogg
 
 - type: soundCollection
-  id: XenoborgBeep
+  id: VulpkaninBarks
   files:
-  - /Audio/Voice/Xenoborg/xenoborg_twobeep.ogg
+  - /Audio/Voice/Vulpkanin/dog_bark_1.ogg
+  - /Audio/Voice/Vulpkanin/dog_bark_2.ogg
+  - /Audio/Voice/Vulpkanin/dog_bark_3.ogg
 
 - type: soundCollection
-  id: XenoborgChime
+  id: VulpkaninGrowls
   files:
-  - /Audio/Voice/Xenoborg/xenoborg_chime.ogg
+  - /Audio/Voice/Vulpkanin/dog_growl_1.ogg
+  - /Audio/Voice/Vulpkanin/dog_growl_2.ogg
+  - /Audio/Voice/Vulpkanin/dog_growl_3.ogg
+  - /Audio/Voice/Vulpkanin/dog_growl_4.ogg
+  - /Audio/Voice/Vulpkanin/dog_growl_5.ogg
+  - /Audio/Voice/Vulpkanin/dog_growl_6.ogg
 
 - type: soundCollection
-  id: XenoborgBuzz
+  id: VulpkaninSnarls
   files:
-  - /Audio/Voice/Xenoborg/xenoborg_buzz-sigh.ogg
-
-- type: soundCollection
-  id: XenoborgBuzzTwo
-  files:
-  - /Audio/Voice/Xenoborg/xenoborg_buzz-two.ogg
-
-- type: soundCollection
-  id: XenoborgBikeHorn
-  files:
-  - /Audio/Voice/Xenoborg/xenoborg_bikehorn.ogg
-
-- type: soundCollection
-  id: XenoborgPing
-  files:
-  - /Audio/Voice/Xenoborg/xenoborg_ping.ogg
+  - /Audio/Voice/Vulpkanin/dog_snarl_1.ogg
+  - /Audio/Voice/Vulpkanin/dog_snarl_2.ogg
+  - /Audio/Voice/Vulpkanin/dog_snarl_3.ogg

@@ -18,54 +18,54 @@
   source: "https://freesound.org/people/jackstrebor/sounds/34782/"
 
 - files:
-  - cry_male_1
-  - cry_male_2
+  - male_cry_1
+  - male_cry_2
   license: "CC-BY-4.0"
   copyright: "Taken from https://freesound.org/. Convert from WAV to OGG, is divided into several parts."
   source: "https://freesound.org/people/jacobmathiassen/sounds/254869/"
 
 - files:
-  - cry_male_3.ogg
+  - male_cry_3.ogg
   license: "CC0-1.0"
   copyright: "Taken from https://freesound.org/"
   source: "https://freesound.org/people/scottemoil/sounds/263776/"
 
 - files:
-  - cry_male_4.ogg
+  - male_cry_4.ogg
   license: "CC-BY-4.0"
   copyright: "Taken from https://freesound.org/. Converted from FLAC to OGG, some part of the sound is taken."
   source: "https://freesound.org/people/qubodup/sounds/200428/"
 
 - files:
-  - cry_female_1.ogg
-  - cry_female_2.ogg
+  - female_cry_1.ogg
+  - female_cry_2.ogg
   license: "CC-BY-NC-3.0"
   copyright: "Taken from https://freesound.org/. Convert from WAV to OGG, is divided into several parts."
   source: "https://freesound.org/people/Luzanne0/sounds/445299/"
 
 - files:
-  - cry_female_3.ogg
-  - cry_female_4.ogg
+  - female_cry_3.ogg
+  - female_cry_4.ogg
   license: "CC-BY-NC-4.0"
   copyright: "Taken from https://freesound.org/. Convert from WAV to OGG, is divided into several parts."
   source: "https://freesound.org/people/Idalize/sounds/408211/"
 
 - files:
-  - femalescream_1.ogg
-  - femalescream_2.ogg
-  - femalescream_3.ogg
-  - femalescream_4.ogg
-  - femalescream_5.ogg
-  - malescream_1.ogg
-  - malescream_2.ogg
-  - malescream_3.ogg
-  - malescream_4.ogg
-  - malescream_5.ogg
-  - malescream_6.ogg
-  - manlaugh_1.ogg
-  - manlaugh_2.ogg
+  - female_scream_1.ogg
+  - female_scream_2.ogg
+  - female_scream_3.ogg
+  - female_scream_4.ogg
+  - female_scream_5.ogg
+  - male_scream_1.ogg
+  - male_scream_2.ogg
+  - male_scream_3.ogg
+  - male_scream_4.ogg
+  - male_scream_5.ogg
+  - male_scream_6.ogg
+  - male_laugh_1.ogg
+  - male_laugh_2.ogg
   - wilhelm_scream.ogg
-  - womanlaugh.ogg
+  - female_laugh.ogg
   license: "CC-BY-SA-3.0"
   copyright: "/tg/station"
   source: "https://github.com/tgstation/tgstation/commit/3d049e69fe71a0be2133005e65ea469135d648c8"
@@ -90,30 +90,57 @@
   copyright: "qubodup on freesound.org"
   source: "https://freesound.org/people/qubodup/sounds/743360/"
 
-- files: ["female_sneeze_1.ogg"]
+- files: ["female_sneeze.ogg"]
   license: "CC0-1.0"
   copyright: "sherby168 on freesound.org"
   source: "https://freesound.org/people/sherby168/sounds/540771/"
 
-- files: ["male_sneeze_1.ogg"]
+- files: ["male_sneeze.ogg"]
   license: "CC-BY-4.0"
   copyright: "InspectorJ (www.jshaw.co.uk) of Freesound.org"
   source: "https://freesound.org/people/InspectorJ/sounds/352177/"
 
-- files: ["male_yawn_1.ogg"]
+- files: ["male_yawn.ogg"]
   license: "CC-BY-4.0"
   copyright: "ckvoiceover on freesound.org"
   source: "https://freesound.org/people/ckvoiceover/sounds/401338/"
 
-- files: ["female_yawn_1.ogg"]
+- files: ["female_yawn.ogg"]
   license: "CC0-1.0"
   copyright: "Reitanna on freesound.org"
   source: "https://freesound.org/people/Reitanna/sounds/252239/"
 
 - files:
-  - snore1.ogg
-  - snore2.ogg
-  - snore3.ogg
+  - snore_1.ogg
+  - snore_2.ogg
+  - snore_3.ogg
   license: "CC0-1.0"
   copyright: "mattyharm on freesound.org"
   source: "https://freesound.org/people/mattyharm/sounds/432995/"
+
+- files:
+  - deathgasp_1.ogg
+  - deathgasp_2.ogg
+  - female_deathgasp_1.ogg
+  - female_deathgasp_2.ogg
+  - female_deathgasp_3.ogg
+  - female_deathgasp_4.ogg
+  - female_deathgasp_5.ogg
+  - male_deathgasp_1.ogg
+  - male_deathgasp_2.ogg
+  - male_deathgasp_3.ogg
+  - male_deathgasp_4.ogg
+  - male_deathgasp_5.ogg
+  license: "CC-BY-SA-3.0"
+  copyright: "Taken from Paradise at https://github.com/ParadiseSS13/Paradise/commit/4397f13c72998aa7e6ce192215c9f77b9d62eee2"
+  source: "https://github.com/ParadiseSS13/Paradise/tree/4397f13c72998aa7e6ce192215c9f77b9d62eee2/sound/goonstation/voice"
+
+- files:
+  - female_gasp_1.ogg
+  - female_gasp_2.ogg
+  - female_gasp_3.ogg
+  - male_gasp_1.ogg
+  - male_gasp_2.ogg
+  license: "CC-BY-SA-3.0"
+  copyright: "Taken from tgstation at https://github.com/tgstation/tgstation/commit/f7a49c4068f1277e6857baf0892d355f1c055974"
+  source: "https://github.com/tgstation/tgstation/tree/f7a49c4068f1277e6857baf0892d355f1c055974/sound/voice/human"

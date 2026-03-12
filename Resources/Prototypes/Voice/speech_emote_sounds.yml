@@ -3,17 +3,17 @@
   id: UnisexSounds
   sounds:
     CatMeow:
-      collection: CatMeows
+      path: /Audio/Animals/cat_meow.ogg
     CatHisses:
-      collection: CatHisses
+      path: /Audio/Animals/cat_hiss.ogg
     MonkeyScreeches:
       collection: MonkeyScreeches
     RobotBeep:
-      collection: RobotBeeps
+      path: /Audio/Effects/Diseases/beepboop.ogg
     Weh:
-      collection: Weh
+      path: /Audio/Items/Toys/weh.ogg
     Hew:
-      collection: Hew
+      path: /Audio/Items/Toys/hew.ogg
     Whistle:
       collection: Whistles
     Snore:
@@ -29,13 +29,13 @@
     Laugh:
       collection: MaleLaugh
     Sneeze:
-      collection: MaleSneezes
+      path: /Audio/Voice/Human/male_sneeze.ogg
     Cough:
       collection: MaleCoughs
     Yawn:
-      collection: MaleYawn
+      path: /Audio/Voice/Human/male_yawn.ogg
     Sigh:
-      collection: MaleSigh
+      path: /Audio/Voice/Human/male_sigh.ogg
     Crying:
       collection: MaleCry
     Honk:
@@ -55,15 +55,15 @@
     Laugh:
       collection: FemaleLaugh
     Sneeze:
-      collection: FemaleSneezes
+      path: /Audio/Voice/Human/female_sneeze.ogg
     Cough:
       collection: FemaleCoughs
     Yawn:
-      collection: FemaleYawn
+      path: /Audio/Voice/Human/female_yawn.ogg
     Honk:
       collection: CluwneHorn
     Sigh:
-      collection: FemaleSigh
+      path: /Audio/Voice/Human/female_sigh.ogg
     Crying:
       collection: FemaleCry
     Gasp:
@@ -118,7 +118,7 @@
     variation: 0.125
   sounds:
     Squish:
-      collection: Squishes
+      path: /Audio/Voice/Slime/slime_squish.ogg
 
 - type: emoteSounds
   parent: [UnisexSounds, UnisexSlime, MaleSounds]
@@ -134,7 +134,7 @@
     variation: 0.125
   sounds:
     Scream:
-      path: /Audio/Voice/Vox/shriek1.ogg
+      path: /Audio/Voice/Vox/vox_scream.ogg
     Laugh:
       path: /Audio/Voice/Vox/vox_laugh.ogg
     Sneeze:
@@ -150,9 +150,9 @@
     Crying:
       path: /Audio/Voice/Vox/vox_cry.ogg
     Gasp:
-      path: /Audio/Effects/Gasp/vox_gasp.ogg
+      path: /Audio/Voice/Vox/vox_gasp.ogg
     DefaultDeathgasp:
-      path: /Audio/Effects/Gasp/vox_DeathGasp.ogg
+      path: /Audio/Voice/Vox/vox_deathgasp.ogg
 
 - type: emoteSounds
   parent: [UnisexSounds, UnisexVox, MaleSounds]
@@ -172,7 +172,7 @@
     Laugh:
       collection: DionaLaugh
     Sneeze:
-      collection: DionaSneeze
+      path: /Audio/Voice/Diona/diona_sneeze.ogg
     Chirp:
       path: /Audio/Animals/nymph_chirp.ogg
     Honk: # Added, cause no parent general female/male sounds prototype for male/femaly diona's
@@ -228,7 +228,7 @@
     Squeak:
       path: /Audio/Voice/Moth/moth_squeak.ogg
     DefaultDeathgasp:
-      collection: MothDeathGasp
+      path:  /Audio/Voice/Moth/moth_deathgasp.ogg
 
 - type: emoteSounds
   parent: [UnisexSounds, UnisexMoth, MaleSounds]
@@ -244,7 +244,7 @@
     variation: 0.125
   sounds:
     Sneeze:
-      collection: VulpkaninSneeze
+      path: /Audio/Voice/Vulpkanin/vulp_sneeze.ogg
     Yawn:
       collection: VulpkaninYawns
     Scream:
@@ -256,11 +256,11 @@
     Bark:
       collection: VulpkaninBarks
     Whine:
-      collection: VulpkaninWhines
+      path: /Audio/Voice/Vulpkanin/dog_whine.ogg
     Crying:
-      collection: VulpkaninWhines
+      path: /Audio/Voice/Vulpkanin/dog_whine.ogg
     Howl:
-      collection: VulpkaninHowls
+      path: /Audio/Voice/Vulpkanin/wolf_howl.ogg
 
 - type: emoteSounds
   parent: [UnisexSounds, UnisexVulpkanin, MaleSounds]
@@ -304,21 +304,21 @@
     variation: 0.05
   sounds:
     Scream:
-      collection: XenoborgScream
+      path: /Audio/Voice/Xenoborg/xenoborg_scream.ogg
     Laugh:
       collection: XenoborgLaugh
     Beep:
-      collection: XenoborgBeep
+      path: /Audio/Voice/Xenoborg/xenoborg_twobeep.ogg
     Chime:
-      collection: XenoborgChime
+      path: /Audio/Voice/Xenoborg/xenoborg_chime.ogg
     Buzz:
-      collection: XenoborgBuzz
+      path: /Audio/Voice/Xenoborg/xenoborg_buzz-sigh.ogg
     Buzz-Two:
-      collection: XenoborgBuzzTwo
+      path: /Audio/Voice/Xenoborg/xenoborg_buzz-two.ogg
     Honk:
-      collection: XenoborgBikeHorn
+      path: /Audio/Voice/Xenoborg/xenoborg_bikehorn.ogg
     Ping:
-      collection: XenoborgPing
+      path: /Audio/Voice/Xenoborg/xenoborg_ping.ogg
 
 # Body emotes
 - type: emoteSounds
@@ -327,13 +327,13 @@
     Clap:
       collection: Claps
     ClapSingle:
-      collection: ClapSingle
+      path: /Audio/Effects/Emotes/clap_single.ogg
     Snap:
       collection: Snaps
       params:
         volume: -6
     Salute:
-      collection: Salutes
+      path: /Audio/Effects/Emotes/salute.ogg
 
 - type: emoteSounds
   id: DionaBodyEmotes
@@ -454,22 +454,22 @@
     variation: 0.125
   sounds:
     Laugh:
-      collection: WawaLaugh
+      path: /Audio/Animals/wawa_mock.ogg
     Sneeze:
-      collection: WawaSneeze
+      path: /Audio/Animals/wawa_achoo.ogg
     Cough:
       collection: MaleCoughs
     Sigh:
-      collection: WawaSigh
+      path: /Audio/Animals/wawa_depression.ogg
     Scream:
-      collection: WawaScream
+      path: /Audio/Animals/wawa_protest.ogg
     Yawn:
-      collection: WawaYawn
+      path: /Audio/Animals/wawa_yawn.ogg
     Crying:
-      collection: WawaCry
+      path: /Audio/Animals/wawa_despair.ogg
     Honk:
       collection: BikeHorn
     Gasp:
       collection: MaleGasp
     DefaultDeathgasp:
-      collection: WawaDeath
+      path: /Audio/Animals/wawa_the_end.ogg

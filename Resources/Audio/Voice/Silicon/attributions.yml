@@ -2,3 +2,17 @@
   license: "CC0-1.0"
   copyright: "Taken from vultraz168 freesound.org and modified by https://github.com/MilenVolf"
   source: "https://freesound.org/people/vultraz168/sounds/334665/"
+
+- files:
+  - silicon_scream_1.ogg
+  - silicon_scream_2.ogg
+  - silicon_scream_3.ogg
+  - silicon_scream_4.ogg
+  - silicon_scream_5.ogg
+  - silicon_scream_6.ogg
+  - silicon_scream_7.ogg
+  - silicon_scream_8.ogg
+  - silicon_scream_9.ogg
+  license: "CC-BY-SA-3.0"
+  copyright: "/tg/station and modified by AsnDen"
+  source: "https://github.com/tgstation/tgstation/commit/3d049e69fe71a0be2133005e65ea469135d648c8"

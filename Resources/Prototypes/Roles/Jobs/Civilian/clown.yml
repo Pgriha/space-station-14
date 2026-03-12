@@ -22,7 +22,7 @@
         types:
           Blunt: 1
     - type: SleepEmitSound
-      snore: /Audio/Voice/Misc/silly_snore.ogg
+      snore: /Audio/Voice/Misc/snore_silly.ogg
       interval: 10
   - !type:AddImplantSpecial
     implants: [ SadTromboneImplant ]
